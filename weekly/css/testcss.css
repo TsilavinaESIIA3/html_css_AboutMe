@@ -1,0 +1,114 @@
+.fond{
+	font-weight:bold;
+}
+h1{
+	font-family:Cooper Black;
+	color:rgb(213,0,0);
+	text-align:center;
+}
+#indication{
+	text-align:center;
+	font-family:Calibri;
+}
+#espace{
+	width:250px;
+}
+.tb1{
+	height:5px;
+}
+p{
+	margin-top:1px;
+	margin-bottom:1px;
+}
+.elements{
+	font-family:Constantia;
+	margin-left:30px;
+}
+.labels{
+	font-family:Berlin Sans FB;
+	text-decoration:underline;
+	margin-left:50px;
+	font-weight:bold;
+	color:rgb(85,135,0);
+}
+.photo{
+	width:150px;
+}
+#moi{
+	height:150px;
+	width:150px;
+	opacity:1;
+}
+#table1{
+	margin-left:50px;
+}
+table{
+	position:center;
+}
+
+.labbelInfo{
+	font-family:Baskerville Old Face;
+	font-weight:bold;
+	text-decoration:underline;
+}
+
+#case1:hover{
+	background-color:rgb(102,102,255);
+}
+
+#case2:hover{
+	background-color:rgb(255,255,0);
+}
+#case3:hover{
+	background-color:rgb(250,80,7);
+}
+
+body{
+	background-image:url(../images/fond.jpg);
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center;
+}
+.externe{
+	background-color:white;
+	margin-left:100px;
+	margin-right:100px;
+	border-radius:10px;
+	opacity:0.8;
+}
+.interne1{
+	background-color:white;
+	margin-left:50px;
+	margin-right:50px;
+	border-radius:10px;
+}
+.interne2{
+	background-color:blue;
+	opacity:0.5;
+}
+.p2{
+	color:blue;
+}
+.image1{
+	float:left;
+}
+.tdPr{
+	height:300px;
+	width:500px;
+	border-radius:10px;
+}
+.tetes{
+	text-align:center;
+	font-family:Cooper Black;
+	color:green;
+	font-size:25px;
+}
+.tdPr:hover{
+	background-color:black;
+	height:300px;
+	width:500px;
+	border-radius:10px;
+}
+#nom1{
+	color:black;
+}
